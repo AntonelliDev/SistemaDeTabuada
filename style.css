@@ -1,0 +1,26 @@
+body {
+  background-color: #b0c4b1;
+  color: #f7f7f7;
+  font-family: "Geist", sans-serif;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+section {
+  width: 500px;
+  background-color: #f7f7f7;
+  color: black;
+  margin: auto;
+  border-radius: 8px;
+  padding: 30px;
+  box-shadow: 5px 5px 10px #8da78ec2;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+}
+
